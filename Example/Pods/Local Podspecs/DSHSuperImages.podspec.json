@@ -1,0 +1,22 @@
+{
+  "name": "DSHSuperImages",
+  "version": "0.1.0",
+  "summary": "A short description of DSHSuperImages.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/budulayreturns/DSHSuperImages",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "budulayreturns": "budulayreturns@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/budulayreturns/DSHSuperImages.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "DSHSuperImages/Classes/**/*"
+}

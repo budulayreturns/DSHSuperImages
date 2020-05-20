@@ -1,0 +1,16 @@
+PODS:
+  - DSHSuperImages (0.1.0)
+
+DEPENDENCIES:
+  - DSHSuperImages (from `../`)
+
+EXTERNAL SOURCES:
+  DSHSuperImages:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  DSHSuperImages: 4494a8c2d183d8514e7fb08ca8a8089d4da4b345
+
+PODFILE CHECKSUM: 2216f0771453eb0a23cf5d3b8127926bddeb35d4
+
+COCOAPODS: 1.8.4

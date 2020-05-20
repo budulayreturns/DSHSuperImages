@@ -1,0 +1,6 @@
+framework module DSHSuperImages {
+  umbrella header "DSHSuperImages-umbrella.h"
+
+  export *
+  module * { export * }
+}
